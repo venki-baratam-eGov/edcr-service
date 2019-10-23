@@ -218,15 +218,10 @@
             </dependency>
             <dependency>
                 <groupId>org.egov</groupId>
-                <artifactId>egov-bpa</artifactId>
-                <version>${erp-version}</version>
-            </dependency>
-            <dependency>
-                <groupId>org.egov</groupId>
                 <artifactId>egov-portal</artifactId>
                 <version>${erp-version}</version>
             </dependency>
-	    <dependency>
+	    	<dependency>
                 <groupId>org.egov</groupId>
                 <artifactId>egov-edcr</artifactId>
                 <version>${erp-version}</version>
